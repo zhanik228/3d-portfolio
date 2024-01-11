@@ -1,0 +1,15 @@
+{
+    "welcome-text": "Привет, я",
+    "name": "Жанарыс",
+    "what-i-do": "Я делаю веб-сайты и API",
+    "profession": "Fullstack разработчик",
+    "contact-me": "Связаться со мной",
+    "skills": "Умения",
+    "languages": "Языки",
+    "projects": "Проекты",
+    "previous": "Предыдущий",
+    "next": "Следующий",
+    "form-name": "Имя",
+    "message": "Сообщение",
+    "submit": "Отправить"
+}
